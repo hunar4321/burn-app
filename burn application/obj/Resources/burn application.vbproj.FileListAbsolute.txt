@@ -1,0 +1,18 @@
+D:\burn application\burn application\bin\Debug\TBSA calculator.exe.config
+D:\burn application\burn application\bin\Debug\Burn data base 2003.mdb
+D:\burn application\burn application\bin\Debug\TBSA calculator.exe.manifest
+D:\burn application\burn application\bin\Debug\TBSA calculator.application
+D:\burn application\burn application\bin\Debug\TBSA calculator.exe
+D:\burn application\burn application\bin\Debug\TBSA calculator.pdb
+D:\burn application\burn application\bin\Debug\TBSA calculator.xml
+D:\burn application\burn application\obj\Debug\ResolveAssemblyReference.cache
+D:\burn application\burn application\obj\Debug\burn_application.Form1.resources
+D:\burn application\burn application\obj\Debug\burn_application.Form2.resources
+D:\burn application\burn application\obj\Debug\burn_application.Formselectage.resources
+D:\burn application\burn application\obj\Debug\burn_application.Resources.resources
+D:\burn application\burn application\obj\Debug\burn application.vbproj.GenerateResource.Cache
+D:\burn application\burn application\obj\Debug\TBSA calculator.exe.manifest
+D:\burn application\burn application\obj\Debug\TBSA calculator.application
+D:\burn application\burn application\obj\Debug\TBSA calculator.exe
+D:\burn application\burn application\obj\Debug\TBSA calculator.xml
+D:\burn application\burn application\obj\Debug\TBSA calculator.pdb
